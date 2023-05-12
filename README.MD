@@ -1,5 +1,5 @@
 #STEPS
 
-´´´ssh
+```ssh
 cd game 
-python3 game.py ´´´
+python3 game.py```
